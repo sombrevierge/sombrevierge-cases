@@ -11,7 +11,7 @@ const manrope = Manrope({
 
 export const metadata: Metadata = {
   title: 'Портфолио кейсов — Catherine',
-  description: 'Одностраничная коллекция продуктовых и e-com кейсов в формате S/T/A/R.'
+  description: 'Коллекция продуктовых и e-com кейсов в формате S/T/A/R.'
 };
 
 export default function RootLayout({

@@ -10,7 +10,7 @@ const manrope = Manrope({
 });
 
 export const metadata: Metadata = {
-  title: 'Портфолио кейсов — Catherine Moon',
+  title: 'Портфолио кейсов — Catherine',
   description: 'Одностраничная коллекция продуктовых и e-com кейсов в формате S/T/A/R.'
 };
 
@@ -30,7 +30,7 @@ export default function RootLayout({
                   Портфолио кейсов
                 </span>
                 <span className="text-sm font-medium text-neutral-900">
-                  Catherine Moon · Product / Growth / E-com
+                  Catherine · Product / Growth / E-com
                 </span>
               </div>
               <span className="hidden text-[11px] uppercase tracking-[0.22em] text-neutral-400 sm:inline">
@@ -40,7 +40,7 @@ export default function RootLayout({
           </header>
           <main className="flex-1">{children}</main>
           <footer className="border-t border-neutral-200/70 py-4 text-center text-[11px] uppercase tracking-[0.18em] text-neutral-500">
-            Next.js · TypeScript · Tailwind · Framer Motion
+            По всем вопросам можно обратиться в TG · sombrevierge
           </footer>
         </div>
       </body>
